@@ -6,4 +6,4 @@ This is an attempt to make the preview in the Markdown plugin for Webstorm to mi
 
 _Confirmed working in 2017.3_
 
-![Webstorm Markdown Preferences](Webstorm_Preferences_Markdown.gif)
+![Webstorm Markdown Preferences](Webstorm_Preferences_Markdown.png)
